@@ -55,4 +55,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avishkar03-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishkar03/)
 [![Email](https://img.shields.io/badge/Email-avishkartech8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avishkartech8@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BugBite003&show_icons=true&theme=tokyonight&hide_border=true)
+### 📊 GitHub stats
+
+<p>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" />
+</p>
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
